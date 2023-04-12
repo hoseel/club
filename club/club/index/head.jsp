@@ -6,10 +6,10 @@
 	String id = (String)session.getAttribute("idKey");
 	String cPath = request.getContextPath();
 	String url = "../member/member01.jsp";
-	String urlg = "../index/main.jsp";
-	String urlc = "../index/main.jsp";
-	String urlp = "../index/main.jsp";
-	String urls = "../index/main.jsp";
+	String urlg = "../group/group02.jsp"; 
+	String urlc = "../code/code01.jsp";
+	String urlp = "../payment/payment01.jsp";
+	String urls = "../sight/sight02.jsp";
 	String label = "회원가입";
 
 	if (id == null) {
@@ -20,10 +20,6 @@
 		
 		label = "회원정보수정";
 		url = "../member/member01Up.jsp";
-		urlg = "../group/group02.jsp"; 
-		urlc = "../code/code01.jsp";
-		urlp = "../payment/payment01.jsp";
-		urls = "../sight/sight02.jsp";
 	}
 %>
 <!DOCTYPE html>

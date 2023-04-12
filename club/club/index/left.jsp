@@ -9,7 +9,7 @@
 	String urlp = "../payment/payment02.jsp";
 	String urle = "../meet/meet02.jsp";
 	String urld = "../dues/due02.jsp";
-	
+/*
 	if (id != null) {
 		MemBean mBean = mMgr.getMember1(id);
 		String memship = mBean.getMemship();
@@ -24,6 +24,7 @@
 		urle = "../index/main.jsp";
 		urld = "../index/main.jsp";
 	}
+*/
 %>
 
 <!DOCTYPE html>
