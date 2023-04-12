@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500&display=swap'); /*'Noto Serif KR', serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Serif+KR:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Nanum+Gothic&family=Noto+Serif+KR:wght@500&display=swap'); /*'Nanum Gothic', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap'); /*font-family: 'Noto Sans KR', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap'); /*font-family: 'Song Myung', serif;*/
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap'); /*font-family: 'East Sea Dokdo', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap'); /*font-family: 'Nanum Brush Script', cursive;*/
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/KyoboHandwriting2020A.woff'); /*font-family: 'KyoboHandwriting2020A';*/
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap'); /*font-family: 'Gamja Flower', cursive;*/
+
+/* color: #f8d3c5, #fceee9, #dde6d5, #a3b899, #667b68 */
+A:link {text-decoration:none; color:#667b68;}
+
+A:visited {text-decoration:none; color:#667b68;}
+
+A:hover {text-decoration:none; color:#f8d3c5; font-weight: bolder}
+
+A:focus {text-decoration:none; color:#f8d3c5; font-weight: bolder}
+
+A:active {text-decoration:none; color:#f8d3c5; font-weight: bolder}
+
+::selection {
+	background: #fceee9; color: black;
+}
+
+h2 {
+	font-family: 'Noto Serif KR', serif;
+}
+
+BODY {
+	background-color: #a3b899; FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: 'Noto Sans KR', sans-serif;
+}
+
+TD {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Nanum Gothic', sans-serif;
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Nanum Gothic', sans-serif;
+}
+DIV {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Nanum Gothic', sans-serif;
+}
+FORM {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; font-family: 'Nanum Gothic', sans-serif;
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Nanum Gothic', sans-serif; BACKGROUND-COLOR: white;
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Nanum Gothic', sans-serif; HEIGHT: 20px; BACKGROUND-COLOR: white;
+}
+
+select {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; font-family: 'Nanum Gothic', sans-serif; HEIGHT: 22px; BACKGROUND-COLOR: white;
+}
+table { 
+	border-collapse: collapse; 
+}
